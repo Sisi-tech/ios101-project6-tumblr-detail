@@ -19,9 +19,6 @@
 ## Video Walkthrough
 <div>
     <a href="https://www.loom.com/share/e8c7f49a04274909af47491aea790009">
-      <p>courses.codepath.org/snippets/ios101/readme_templates/project6_readme_template?raw=true - 31 March 2024 - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/e8c7f49a04274909af47491aea790009">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e8c7f49a04274909af47491aea790009-with-play.gif">
     </a>
   </div>
